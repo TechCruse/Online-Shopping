@@ -1,0 +1,14 @@
+.navbar-container{
+    background-color: #AFE1AF;
+}
+.nav-item .nav-link{
+    color: black;
+    font-weight: 600;
+}
+.nav-item .nav-link:hover{
+    color: #ff4500;
+    transition: 0.5s;
+}
+.nav-item a.active{
+    color: #ff4500;
+}
